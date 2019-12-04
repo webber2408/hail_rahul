@@ -7,11 +7,18 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Rahul Sharma",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "dependencies": {
     "chalk": "^3.0.0",
     "inquirer": "^7.0.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webber2408/hail_rahul.git"
+  },
+  "keywords": [
+    "resume"
+  ],
   "bin": {
     "hail_rahul": "./src/index.js"
   }
