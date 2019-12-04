@@ -1,0 +1,115 @@
+{
+  "Experience": [
+    {
+      "company": "Fundwave",
+      "title": "Full Stack Developer",
+      "description": "Tech: Polymer.js | Hibernate | MySQL | JAVA",
+      "duration": "July 2019 - Present"
+    },
+    {
+      "company": "Fundwave",
+      "title": "Full Stack Developer Intern",
+      "description": "Tech: Polymer.js | Hibernate | MySQL | JAVA",
+      "duration": "February 2019 - July 2019"
+    },
+    {
+      "company": "NTPC Dadri",
+      "title": "Vocational Trainee",
+      "description": "Tech: PHP | Project: Powerplant Protocol Portal",
+      "duration": "May 2018 - July 2018"
+    },
+    {
+      "company": "IndiaReads.com",
+      "title": "Full Stack Developer Intern",
+      "description": "Tech: PHP, MySQL, JavaScript, jQuery, Bootstrap | Project: Knowledge Sharing Platform (KSP)",
+      "duration": "March 2018 - June 2018"
+    },
+    {
+      "company": "MeraLaundry.com",
+      "title": "Web Development Intern",
+      "description": "Tech: PHP, JavaScript, jQuery, MySQL | Project: CRUD Portal",
+      "duration": "October 2017 - December 2017"
+    },
+    {
+      "company": "Rannlab Technologies | Internity Foundation",
+      "title": "Front End Developer Intern",
+      "description": "Tech: Angular 2, Bootstrap | Projects: GrabYourBook, UI Templates",
+      "duration": "June 2017 - July 2017"
+    },
+    {
+      "company": "MakeUrWorld",
+      "title": "Web Development Intern",
+      "description": "Tech: PHP, jQuery",
+      "duration": "March 2017 - May 2017"
+    }
+  ],
+  "Tech stack": {
+    "Front-End Technologies":["ECMAScript", "Lit-Element.JS", "React.JS", "SASS", "CSS3", "HTML5", "BootStrap", "MaterialUI"],
+    "Back-End Technologies":["Node.JS", "JAVA", "GoLang", "PHP"],
+    "Database Technologies":["MySQL", "MongoDB", "Redis"],
+    "Libraries Used":["Moment.JS", "Express.JS", "Chalk.JS", "HighCharts.JS", "Numeral.JS", "Inquirer.JS", "Typed.JS"],
+    "Other Tools":["Webpack", "Git"]
+  },
+  "Co-curricular activities":[
+    "Coordinator: Google Developers’ Group JIIT Noida (Aug’17- Jul’18)",
+    "Coordinator: Kalakriti – The Creative Hub (Aug’18– July’18)",
+    "Volunteer: IEEE JIIT Noida (Aug’16 – Jul’17), AMN Conference, JIIT Noida (Apr’18)",
+    "Sessions: C Programming IEEE (Sep’16), PHP, MySql, HTML, CSS, JavaScript, jQuery - Google Developers’ Group (Sep’17 – Nov’17)",
+    "Competition: 1st Position - Blind Coding Competition, Cyber Srishti (Technical Fest), JIIT Noida (Feb’18)",
+    "Took study sessions for rural children under Light-De-Literacy (Aug’17)",
+    "Hobbies: Photography, Badminton"
+  ],
+  "Certifications": [
+    {
+      "name": "Challenge Acceptor",
+      "description": "Internity Foundation | Rannlab Technologies"
+    },
+    {
+      "name": "ICCE - Green Revolution Global Certification",
+      "description": "ICCE (International Center for Culture and Education)"
+    }
+  ],
+  "Education":[
+    {
+      "institutionName":"Jaypee Institute of Information Technology",
+      "description":"Bachelor of Technology | 2015-2019",
+      "score":"GPA: 8.1"
+    },
+    {
+      "institutionName":"Delhi Public School, NTPC Vidyut Nagar",
+      "description":"Senior Secondary Education | 2014-2015",
+      "score":"Score: 92.8%"
+    },
+    {
+      "institutionName":"Delhi Public School, NTPC Vidyut Nagar",
+      "description":"Secondary Education | 2012-2013",
+      "score":"GPA: 10.0"
+    }
+  ],
+  "Contact Me?": [
+    {
+      "name": "Git Hub",
+      "link": "https://github.com/webber2408"
+    },
+    {
+      "name": "LinkedIn",
+      "link": "https://www.linkedin.com/in/rahul-sharma-25b30b114/"
+    },
+    {
+      "name": "Medium",
+      "link": "https://medium.com/@webcrat.tech"
+    },
+    {
+      "name": "NPM",
+      "link": "https://www.npmjs.com/~webber2408"
+    },
+    {
+      "name": "Codepen",
+      "link": "https://codepen.io/webber2408"
+    },
+    {
+      "name": "Email",
+      "link": "webcrat.tech@gmail.com"
+    }
+  ]
+}
