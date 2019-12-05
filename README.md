@@ -1,4 +1,4 @@
-# hail_rahul v1.6.0
+# hail_rahul
 Terminal Resume
 
 ```npm i --global hail_rahul```
